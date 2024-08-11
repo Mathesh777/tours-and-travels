@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+header {
+    background: url('"C:\Users\mathe\Desktop\website\download.png"') no-repeat center center/cover;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.logo img {
+    width: 150px;
+}
+
+.tagline h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.services {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    text-align: center;
+}
+
+.services h2 {
+    font-size: 2em;
+}
+
+.service-item {
+    margin: 20px 0;
+}
+
+.contact {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 2em;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
